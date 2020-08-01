@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'll be editing my profile readme later...
 
 <!--
 **JohnLins/JohnLins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
