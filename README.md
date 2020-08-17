@@ -2,8 +2,13 @@
 I'll be editing my profile readme later...
 
 # Skills:
-Server-Side: <img src="go.svg"/>, <img src="python.svg"/>, <img src="flask.svg"/>
-
+Server-Side: <img src="go.svg" class="icon"/>, <img src="python.svg"/>, <img src="flask.svg"/>
+<style>
+.icon {
+  height: 10px;
+  width: auto;
+  }
+</style>
 # Projects
 :warning: Most of my projects are private, please ping me and we can talk about it.
 
