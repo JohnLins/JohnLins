@@ -18,13 +18,6 @@ Mathematics
 
 Other
 
-<style>
-.icon {
-  height: 10px;
-  width: auto;
-  }
-</style>
-
 # Projects
 :warning: Most of my projects are private, please ping me and we can talk about it.
 
