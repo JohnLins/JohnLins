@@ -2,7 +2,7 @@
 I'll be editing my profile readme later...
 
 <img src="https://img.shields.io/github/commit-activity/m/johnlins/JohnLins"/>
-<img src="https://img.shields.io/github/commit-activity/m/johnlins/JohnLins"/>
+<img src="https://img.shields.io/aur/last-modified/JohnLins"/>
 
 <!--
 **JohnLins/JohnLins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
