@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'll be editing my profile readme later...
-https://img.shields.io/github/followers/johnlins?style=social
+<img src="https://img.shields.io/github/followers/johnlins?style=social"/>
 
 # Skills:
 
