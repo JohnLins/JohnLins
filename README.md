@@ -10,7 +10,7 @@ I'll be editing my profile readme later...
   }
 </style>
 
-Server-Side: <img src="go.svg" height="20px""/>, <img src="python.svg" height="20px"/>, <img src="flask.svg" height="20px"/>
+Server-Side: <img src="go.svg" height="20px"/>, <img src="python.svg" height="20px"/>, <img src="flask.svg" height="20px"/>
 
 # Projects
 :warning: Most of my projects are private, please ping me and we can talk about it.
