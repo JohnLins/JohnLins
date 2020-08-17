@@ -4,12 +4,7 @@ I'll be editing my profile readme later...
 
 # Skills:
 
-<style>
-.icon {
-  height: 10px;
-  width: auto;
-  }
-</style>
+
 
 Server-Side: <img src="go.svg" height="20px" style="fill: #00ADD8" fill="#00ADD8"/>, <img src="python.svg" height="20px" style="background-color: #00ADD8"/>, <img src="flask.svg" height="20px" color="#00ADD8"/>
 
@@ -22,6 +17,13 @@ Light Frontend
 Mathematics
 
 Other
+
+<style>
+.icon {
+  height: 10px;
+  width: auto;
+  }
+</style>
 
 # Projects
 :warning: Most of my projects are private, please ping me and we can talk about it.
