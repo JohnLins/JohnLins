@@ -1,6 +1,12 @@
 ### Hi there 👋
 I'll be editing my profile readme later...
 
+# Skills:
+Server-Side: <img src="go.svg"/>, <img src="python.svg"/>, <img src="flask.svg"/>
+
+# Projects
+:warning: Most of my projects are private, please ping me and we can talk about it.
+
 <img src="https://img.shields.io/github/commit-activity/m/johnlins/JohnLins"/>
 <img src="https://img.shields.io/aur/last-modified/JohnLins"/>
 
