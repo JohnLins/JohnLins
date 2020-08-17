@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'll be editing my profile readme later...
 
-https://img.shields.io/github/commit-activity/m/johnlins/JohnLins
-https://img.shields.io/github/commit-activity/m/johnlins/JohnLins
+<img src="https://img.shields.io/github/commit-activity/m/johnlins/JohnLins"/>
+<img src="https://img.shields.io/github/commit-activity/m/johnlins/JohnLins"/>
 
 <!--
 **JohnLins/JohnLins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
