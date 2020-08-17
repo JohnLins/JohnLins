@@ -2,12 +2,14 @@
 I'll be editing my profile readme later...
 
 # Skills:
+
 <style>
 .icon {
   height: 10px;
   width: auto;
   }
 </style>
+
 Server-Side: <img src="go.svg" class="icon"/>, <img src="python.svg"/>, <img src="flask.svg"/>
 
 # Projects
