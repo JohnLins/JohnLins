@@ -2,8 +2,6 @@
 ### WORK IN PROGRESS
 <img src="https://img.shields.io/github/followers/johnlins?style=social"/>
 
-# Skills:
-
 # John Lins
 
 <!--
@@ -24,31 +22,14 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[![Cpp](https://img.shields.io/static/v1?label=&message=Cpp&color=52C0F2&logo=cplusplus&logoColor=white)]()
-
-
 # Projects
 |  **Name** |  **Description** |
 |-|-|
-||
+|| [![example](https://img.shields.io/static/v1?label=&message=import_sorter&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/johnlins/)
 ||
 ||
 
-# <span style="color:orange;">Private Project</span>
+# Private Projects
 |  **Name** |  **Description** |
 |-|-|
 ||
