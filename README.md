@@ -64,8 +64,7 @@
 |  **Name** |  **Description** |
 |-|-|
 |Server-Side:|[![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=52C0F2&logo=go&logoColor=white)]() [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=52C0F2&logo=flask&logoColor=white)]()
-|Embedded:|[![C](https://img.shields.io/static/v1?label=&message=C&color=52C0F2&logo=C&logoColor=white)]()
-[![Arduino](https://img.shields.io/static/v1?label=&message=arduino&color=52C0F2&logo=arduino&logoColor=white)]()
+|Embedded:|[![C](https://img.shields.io/static/v1?label=&message=C&color=52C0F2&logo=C&logoColor=white)]() [![Arduino](https://img.shields.io/static/v1?label=&message=arduino&color=52C0F2&logo=arduino&logoColor=white)]()
 |Basic Machine learning:|h
 |Light Frontend:|h
 |Mathematics:|
