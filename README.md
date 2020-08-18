@@ -63,12 +63,12 @@
 # Skills
 |  **Name** |  **Description** |
 |-|-|
-|Server-Side:|[![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=52C0F2&logo=go&logoColor=white)]() [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=52C0F2&logo=flask&logoColor=white)]()
+|Server-Side:|[![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=52C0F2&logo=go&logoColor=white)]() [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=black&logo=flask&logoColor=white)]()
 |Embedded:|[![C](https://img.shields.io/static/v1?label=&message=C&color=52C0F2&logo=C&logoColor=white)]() [![Arduino](https://img.shields.io/static/v1?label=&message=arduino&color=52C0F2&logo=arduino&logoColor=white)]()
 |Basic Machine learning:|Theory
 |Light Frontend:|[![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html&logoColor=white)]() [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=html&logoColor=white)]()
 |Mathematics:|Linear Algebra, Discrete Math, Calculus
-|Platform:| [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=52C0F2&logo=debian&logoColor=white)]() [![BSD](https://img.shields.io/static/v1?label=&message=BSD&color=AB2B28&logo=freebsd&logoColor=white)]() [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=52C0F2&logo=windows&logoColor=white)]() [![VSCode](https://img.shields.io/static/v1?label=&message=VSCode&color=52C0F2&logo=visualstudiocode&logoColor=white)]()
+|Platform:| [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=52C0F2&logo=debian&logoColor=white)]() [![BSD](https://img.shields.io/static/v1?label=&message=BSD&color=AB2B28&logo=freebsd&logoColor=white)]() [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=52C0F2&logo=windows&logoColor=white)]() [![VSCode](https://img.shields.io/static/v1?label=&message=VSCode&color=52C0F2&logo=visualstudio&logoColor=white)]()
 
  
 
