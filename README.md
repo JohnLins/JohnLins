@@ -31,7 +31,7 @@
 |Other:|
 
 # Future Skills
-- Tenserflow
+- Tensorflow
 - Simulation Programing
 - OpenGL
 - Elixir/Pheonix
