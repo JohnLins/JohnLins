@@ -63,7 +63,7 @@
 |Basic Machine learning:|Theory
 |Light Frontend:|[![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html&logoColor=white)]() [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=html&logoColor=white)]()
 |Mathematics:|Linear Algebra, Discrete Math, Calculus
-|Platforms:| [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=A81D33&logo=debian&logoColor=white)]() [![BSD](https://img.shields.io/static/v1?label=&message=BSD&color=AB2B28&logo=freebsd&logoColor=white)]() [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=0078D6&logo=windows&logoColor=white)]() [![VSCode](https://img.shields.io/static/v1?label=&message=VSCode&color=52C0F2&logo=visualstudio&logoColor=white)]()
+|Platforms:| [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=A81D33&logo=debian&logoColor=white)]() [![BSD](https://img.shields.io/static/v1?label=&message=BSD&color=AB2B28&logo=freebsd&logoColor=white)]() [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=0078D6&logo=windows&logoColor=white)]() [![JetBrains](https://img.shields.io/static/v1?label=&message=JetBrains&color=000000&logo=jetbrains&logoColor=white)]() [![VSCode](https://img.shields.io/static/v1?label=&message=VSCode&color=52C0F2&logo=visualstudio&logoColor=white)]()
 
  
 
