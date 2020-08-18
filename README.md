@@ -35,7 +35,7 @@
 [![Arduino](https://img.shields.io/static/v1?label=&message=arduino&color=52C0F2&logo=arduino&logoColor=white)]()
 
 
-[![Debiam](https://img.shields.io/static/v1?label=&message=Debian&color=52C0F2&logo=debian&logoColor=white)]()
+
 
 [![BSD](https://img.shields.io/static/v1?label=&message=BSD&color=AB2B28&logo=freebsd&logoColor=white)]()
 
@@ -62,17 +62,26 @@
 |two|h
 |three|h
 
+# Skills
+|  **Name** |  **Description** |
+|-|-|
+|Server-Side:|
+|Embedded:|h
+|Basic Machine learning:|h
+|Light Frontend:|h
+|Mathematics:|
+|Platform:|Platforms: [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=52C0F2&logo=debian&logoColor=white)]()
+
+ 
 
 
-Server-Side: 
 
-Embedded:
 
-Basic Machine learning
 
-Light Frontend
 
-Mathematics
+
+
+
 
 Other
 
