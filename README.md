@@ -64,17 +64,12 @@
 |  **Name** |  **Description** |
 |-|-|
 |Server-Side:|[![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=52C0F2&logo=go&logoColor=white)]() [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=52C0F2&logo=flask&logoColor=white)]()
-
 |Embedded:|[![C](https://img.shields.io/static/v1?label=&message=C&color=52C0F2&logo=C&logoColor=white)]()
 [![Arduino](https://img.shields.io/static/v1?label=&message=arduino&color=52C0F2&logo=arduino&logoColor=white)]()
-
 |Basic Machine learning:|h
-
 |Light Frontend:|h
-
 |Mathematics:|
-
-|Platform:|[![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=52C0F2&logo=debian&logoColor=white)]() [![BSD](https://img.shields.io/static/v1?label=&message=BSD&color=AB2B28&logo=freebsd&logoColor=white)]() [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=52C0F2&logo=windows&logoColor=white)]()
+|Platform:| [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=52C0F2&logo=debian&logoColor=white)]() [![BSD](https://img.shields.io/static/v1?label=&message=BSD&color=AB2B28&logo=freebsd&logoColor=white)]() [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=52C0F2&logo=windows&logoColor=white)]()
 
  
 
