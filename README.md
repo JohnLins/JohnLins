@@ -55,7 +55,7 @@
 |two|
 |three|
 
-# ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Private Projects`
+# <span style="color:orange;">Private Project</span>
 |  **Name** |  **Description** |
 |-|-|
 |one|h
