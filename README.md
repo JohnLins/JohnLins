@@ -25,10 +25,12 @@
 # Projects
 |  **Name** |  **Description** |
 |-|-|
-|| [![example](https://img.shields.io/static/v1?label=&message=import_sorter&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/johnlins/)
+|[![example](https://img.shields.io/static/v1?label=&message=import_sorter&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/johnlins/)|<img src="https://img.shields.io/github/commit-activity/m/johnlins/JohnLins"/>
+<img src="https://img.shields.io/aur/last-modified/JohnLins"/>
 ||
 ||
 
+:warning: Most of my projects are private, please ping me and we can talk about it.
 # Private Projects
 |  **Name** |  **Description** |
 |-|-|
@@ -45,8 +47,7 @@
 |Light Frontend:|[![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html&logoColor=white)]() [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=html&logoColor=white)]() [![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=white)]()
 |Mathematics:|Linear Algebra, Discrete Math, Calculus
 |Platforms:| [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=A81D33&logo=debian&logoColor=white)]() [![BSD](https://img.shields.io/static/v1?label=&message=BSD&color=AB2B28&logo=freebsd&logoColor=white)]() [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=0078D6&logo=windows&logoColor=white)]() [![JetBrains](https://img.shields.io/static/v1?label=&message=JetBrains&color=000000&logo=jetbrains&logoColor=white)]() [![VSCode](https://img.shields.io/static/v1?label=&message=VSCode&color=52C0F2&logo=visualstudio&logoColor=white)]()
-
- 
+|Other:|
 
 # Future Skills
 - Tenserflow
@@ -55,23 +56,6 @@
 - Elixir/Pheonix
 - GTK
 - Quantum Programing
-
-
-
-
-
-
-
-
-Other
-
-# Projects
-:warning: Most of my projects are private, please ping me and we can talk about it.
-
-<img src="https://img.shields.io/github/commit-activity/m/johnlins/JohnLins"/>
-<img src="https://img.shields.io/aur/last-modified/JohnLins"/>
-
-
 
 # Hobbies outside of programming
 - 🍌 Growing tropical banana plants (Apple Bananas & Lady Finger Bananas)
