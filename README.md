@@ -24,8 +24,7 @@
 # Projects
 |  **Name** |  **Description** | **Status** |
 |-|-|-|
-|[![example](https://img.shields.io/static/v1?label=&message=import_sorter&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/johnlins/)|<img src="https://img.shields.io/github/commit-activity/m/johnlins/JohnLins"/>
-<img src="https://img.shields.io/aur/last-modified/JohnLins"/>
+|[![example](https://img.shields.io/static/v1?label=&message=Example&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/johnlins/)|Example...|<img src="https://img.shields.io/github/commit-activity/m/johnlins/JohnLins"/> <img src="https://img.shields.io/aur/last-modified/JohnLins"/>
 ||
 ||
 
