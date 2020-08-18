@@ -27,23 +27,21 @@
 -->
 
 
-[![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=52C0F2&logo=go&logoColor=white)]()
-
-
-[![C](https://img.shields.io/static/v1?label=&message=C&color=52C0F2&logo=C&logoColor=white)]()
-
-[![Arduino](https://img.shields.io/static/v1?label=&message=arduino&color=52C0F2&logo=arduino&logoColor=white)]()
 
 
 
 
-[![BSD](https://img.shields.io/static/v1?label=&message=BSD&color=AB2B28&logo=freebsd&logoColor=white)]()
+
+
+
+
+
 
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=white)]()
 
-[![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=52C0F2&logo=flask&logoColor=white)]()
 
-[![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=52C0F2&logo=windows&logoColor=white)]()
+
+
 
 [![Cpp](https://img.shields.io/static/v1?label=&message=Cpp&color=52C0F2&logo=cplusplus&logoColor=white)]()
 
@@ -65,12 +63,18 @@
 # Skills
 |  **Name** |  **Description** |
 |-|-|
-|Server-Side:|
-|Embedded:|h
+|Server-Side:|[![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=52C0F2&logo=go&logoColor=white)]() [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=52C0F2&logo=flask&logoColor=white)]()
+
+|Embedded:|[![C](https://img.shields.io/static/v1?label=&message=C&color=52C0F2&logo=C&logoColor=white)]()
+[![Arduino](https://img.shields.io/static/v1?label=&message=arduino&color=52C0F2&logo=arduino&logoColor=white)]()
+
 |Basic Machine learning:|h
+
 |Light Frontend:|h
+
 |Mathematics:|
-|Platform:|Platforms: [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=52C0F2&logo=debian&logoColor=white)]()
+
+|Platform:|[![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=52C0F2&logo=debian&logoColor=white)]() [![BSD](https://img.shields.io/static/v1?label=&message=BSD&color=AB2B28&logo=freebsd&logoColor=white)]() [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=52C0F2&logo=windows&logoColor=white)]()
 
  
 
