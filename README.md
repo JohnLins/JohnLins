@@ -1,8 +1,7 @@
-### Hi there 👋
-### WORK IN PROGRESS
+# John Lins
 <img src="https://img.shields.io/github/followers/johnlins?style=social"/>
 
-# John Lins
+
 
 <!--
 |  **Skill** |  **Technologys** | **Projects** |
@@ -23,8 +22,8 @@
 
 
 # Projects
-|  **Name** |  **Description** |
-|-|-|
+|  **Name** |  **Description** | **Status** |
+|-|-|-|
 |[![example](https://img.shields.io/static/v1?label=&message=import_sorter&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/johnlins/)|<img src="https://img.shields.io/github/commit-activity/m/johnlins/JohnLins"/>
 <img src="https://img.shields.io/aur/last-modified/JohnLins"/>
 ||
@@ -32,8 +31,8 @@
 
 :warning: Most of my projects are private, please ping me and we can talk about it.
 # Private Projects
-|  **Name** |  **Description** |
-|-|-|
+|  **Name** |  **Description** | **Status** |
+|-|-|-|
 ||
 ||
 ||
