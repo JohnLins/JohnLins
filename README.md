@@ -47,7 +47,6 @@
 
 [![Cpp](https://img.shields.io/static/v1?label=&message=Cpp&color=52C0F2&logo=cplusplus&logoColor=white)]()
 
-#00599C
 
 
 
@@ -55,9 +54,6 @@
 
 
 Server-Side: 
-<img src="go.svg" height="30px" style="fill: #00ADD8" fill="#00ADD8"/>, 
-<img src="python.svg" height="30px" style="background-color: #00ADD8"/>, 
-<img src="flask.svg" height="30px" color="#00ADD8"/>
 
 Embedded:
 <img src="c.svg" height: 30px;>
