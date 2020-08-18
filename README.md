@@ -48,21 +48,22 @@
 [![Cpp](https://img.shields.io/static/v1?label=&message=Cpp&color=52C0F2&logo=cplusplus&logoColor=white)]()
 
 
-
-
+# Projects
+|  **Name** |  **Description** |
+|-|-|
+|one|
+|two|
+|three|
 
 
 
 Server-Side: 
 
 Embedded:
-<img src="c.svg" height: 30px;>
 
 Basic Machine learning
 
 Light Frontend
-<img src="html5.svg" height="30px"/>
-<img src="css3.svg" height="30px"/>
 
 Mathematics
 
