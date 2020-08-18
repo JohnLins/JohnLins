@@ -37,11 +37,11 @@
 - Elixir/Pheonix
 - GTK
 - Quantum Programing
-
+<!--
 # Hobbies outside of programming
 - 🍌 Growing tropical banana plants (Apple Bananas & Lady Finger Bananas)
 - ➗ Studying mathematical concepts (Linear Algebra, Discrete Math, Calculus)
 - ⚙️ Tinkering with Hardware (Arduino, Onion Omega, ESP32)
 - 🥘 Cooking 
 - 📊 Sharpening marketing and SEO skills
-
+-->
