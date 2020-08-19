@@ -36,7 +36,8 @@
 - OpenGL
 - Elixir/Pheonix
 - GTK
-- Quantum Programing
+- Quantum Programing(Qiskit)
+- Nim
 <!--
 # Hobbies outside of programming
 - 🍌 Growing tropical banana plants (Apple Bananas & Lady Finger Bananas)
