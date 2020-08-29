@@ -22,7 +22,7 @@
 # Skills
 |  **Name** |  **Technologies** |
 |-|-|
-|Server-Side:|[![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00ADD8&logo=go&logoColor=white)]() [![Flask](https://img.shields.io/static/v1?label=&message=(some)%20Flask&color=black&logo=flask&logoColor=white)]() [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=white)]()
+|Server-Side & RESTAPI development:|[![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00ADD8&logo=go&logoColor=white)]() [![Flask](https://img.shields.io/static/v1?label=&message=(some)%20Flask&color=black&logo=flask&logoColor=white)]() [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=white)]()
 |Embedded:|[![C](https://img.shields.io/static/v1?label=&message=C&color=A8B9CC&logo=C&logoColor=white)]() [![Arduino](https://img.shields.io/static/v1?label=&message=(some)%20arduino&color=52C0F2&logo=arduino&logoColor=white)]()
 |Basic Machine learning:|Theory, Math
 |Light Frontend:|[![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=white)]() [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=css3&logoColor=white)]() [![JS](https://img.shields.io/static/v1?label=&message=(some)%20JavaScript&color=F7DF1E&logo=javascript&logoColor=white)]()
