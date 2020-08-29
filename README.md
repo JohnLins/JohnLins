@@ -1,5 +1,6 @@
 # John Lins
-<img src="https://img.shields.io/github/followers/johnlins?style=social"/> <a href="https://scrapbook.hackclub.com/JohnLins"><img src="hackclub.png" height="25px"/></a>
+<img src="https://img.shields.io/github/followers/johnlins?style=social"/> 
+<a href="https://scrapbook.hackclub.com/JohnLins"><img src="hackclub.png" height="20px"/></a>
 
 <!--
 # Projects
