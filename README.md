@@ -1,6 +1,6 @@
 # John Lins
 <img src="https://img.shields.io/github/followers/johnlins?style=social"/> 
-<a href="https://scrapbook.hackclub.com/JohnLins"><img src="hackclubflag.png" height="40px"/></a>
+<!--<a href="https://scrapbook.hackclub.com/JohnLins"><img src="hackclubflag.png" height="40px"/></a>-->
 
 <!--
 # Projects
@@ -39,6 +39,7 @@
 - GTK
 - Quantum Programing(Qiskit)
 - Nim
+- NLP
 <!--
 # Hobbies outside of programming
 - 🍌 Growing tropical banana plants (Apple Bananas & Lady Finger Bananas)
