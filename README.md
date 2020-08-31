@@ -40,6 +40,7 @@
 - Quantum Programing(Qiskit)
 - Nim
 - NLP
+- Lambda Calculus & Functional Programming
 <!--
 # Hobbies outside of programming
 - 🍌 Growing tropical banana plants (Apple Bananas & Lady Finger Bananas)
