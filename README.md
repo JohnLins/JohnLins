@@ -31,6 +31,11 @@
 |Platforms:| [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=A81D33&logo=debian&logoColor=white)]() [![BSD](https://img.shields.io/static/v1?label=&message=BSD&color=AB2B28&logo=freebsd&logoColor=white)]() [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=0078D6&logo=windows&logoColor=white)]() [![JetBrains](https://img.shields.io/static/v1?label=&message=JetBrains&color=000000&logo=jetbrains&logoColor=white)]() [![VSCode](https://img.shields.io/static/v1?label=&message=VSCode&color=52C0F2&logo=visualstudio&logoColor=white)]()
 |Other:| [![git](https://img.shields.io/static/v1?label=&message=Git&color=red&logo=git&logoColor=white)]() [![wsl](https://img.shields.io/static/v1?label=&message=WSL&color=blue&logo=linux&logoColor=white)]()
 
+
+[![Linear Algebra](https://img.shields.io/static/v1?label=&message=Linear Algebra&color=gray&logo=&logoColor=)]()
+[![Discrete Math](https://img.shields.io/static/v1?label=&message=Discrete Math&color=gray&logo=&logoColor=)]()
+[![Calculus](https://img.shields.io/static/v1?label=&message=Calculus&color=gray&logo=&logoColor=)]()
+
 # Future Skills
 - Tensorflow
 - Simulation Programing
