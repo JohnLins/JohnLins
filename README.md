@@ -32,8 +32,8 @@
 |Other:| [![git](https://img.shields.io/static/v1?label=&message=Git&color=red&logo=git&logoColor=white)]() [![wsl](https://img.shields.io/static/v1?label=&message=WSL&color=blue&logo=linux&logoColor=white)]()
 
 
-[![Linear Algebra](https://img.shields.io/static/v1?label=&message=Linear Algebra&color=gray&logo=na&logoColor=na)]()
-[![Discrete Math](https://img.shields.io/static/v1?label=&message=Discrete Math&color=gray&logo=na&logoColor=na)]()
+[![Linear Algebra](https://img.shields.io/static/v1?label=&message=Linear%20Algebra&color=gray&logo=na&logoColor=na)]()
+[![Discrete Math](https://img.shields.io/static/v1?label=&message=Discrete%20Math&color=gray&logo=na&logoColor=na)]()
 [![Calculus](https://img.shields.io/static/v1?label=&message=Calculus&color=gray&logo=na&logoColor=na)]()
 
 # Future Skills
