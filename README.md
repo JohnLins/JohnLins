@@ -34,7 +34,7 @@
 
 
 
-# Future Skills
+# Trying To Learn...
 - Tensorflow
 - Simulation Programing
 - OpenGL
