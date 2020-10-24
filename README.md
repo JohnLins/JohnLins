@@ -34,28 +34,6 @@
 
 
 
-# Trying To Learn...
-- Tensorflow
-- Simulation Programing
-- OpenGL
-- Elixir/Pheonix
-- GTK
-- Quantum Programing(Qiskit)
-- Nim
-- NLP
-- Lambda Calculus & Functional Programming
-<!--
-# Hobbies outside of programming
-- 🍌 Growing tropical banana plants (Apple Bananas & Lady Finger Bananas)
-- ➗ Studying mathematical concepts (Linear Algebra, Discrete Math, Calculus)
-- ⚙️ Tinkering with Hardware (Arduino, Onion Omega, ESP32)
-- 🥘 Cooking 
-- 📊 Sharpening marketing and SEO skills
--->
-
-
-
-
 
 
 <--Hi i'm John, I enjoy building serverside software, ML models, and simulation. I take joy in mathy programming and I spend a significant amout of my personal time consuming thought provoking mathematical concepts-->
