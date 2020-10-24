@@ -52,3 +52,10 @@
 - 🥘 Cooking 
 - 📊 Sharpening marketing and SEO skills
 -->
+
+
+
+
+
+
+<--Hi i'm John, I enjoy building serverside software, ML models, and simulation. I take joy in mathy programming and I spend a significant amout of my personal time consuming thought provoking mathematical concepts-->
