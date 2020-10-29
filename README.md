@@ -48,7 +48,7 @@
 |Congressional App Challenge| I'll write a description later | N/A | N/A
 |Harmony Hacks| I'll write a description later | N/A | N/A
 |Sigmoid Hacks| NLP based API & Web App for website optimization | N/A| N/A
-|NNSG| Bump the Blue Block and you get rewarded by increasing in size. My first 3D rendered project. | N/A|
+|NNSG| N/A | N/A| | N/A |
 |N/A| I'll write a description later | N/A
 
 
