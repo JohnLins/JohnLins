@@ -42,6 +42,16 @@
 |LAcLib & AVFcLib| I'll write a description later | [![Linear Algebra](https://img.shields.io/static/v1?label=&message=Linear%20Algebra&color=gray&logo=na&logoColor=na)]() [![C](https://img.shields.io/static/v1?label=&message=C&color=A8B9CC&logo=C&logoColor=white)]()
 
 
+
+|  **Events** |  **Description** | **Position** | **Link** |
+|Space Apps Challenge| I'll write a description later | N/A | N/A
+|Congressional App Challenge| I'll write a description later | N/A | N/A
+|Harmony Hacks| I'll write a description later | N/A | N/A
+|Sigmoid Hacks| NLP based API & Web App for website optimization | N/A| N/A
+|NNSG| Bump the Blue Block and you get rewarded by increasing in size. My first 3D rendered project. | N/A|
+|N/A| I'll write a description later | N/A
+
+
 My interests include server side programming, machine learning, low level programming, linear algebra + other mathematical concepts, mathy programming, ethical advertizing, and economics.
 
 <!--
