@@ -48,9 +48,9 @@
 |Space Apps Challenge| I'll write a description later | N/A | N/A
 |Congressional App Challenge| I'll write a description later | N/A | N/A
 |Harmony Hacks| I'll write a description later | N/A | N/A
-|Sigmoid Hacks| NLP based API & Web App for website optimization | N/A| N/A
-|NNSG| N/A | N/A| | N/A |
-|N/A| I'll write a description later | N/A
+|Sigmoid Hacks| I'll write a description later | N/A| N/A
+|NNSG| I'll write a description late | N/A| N/A |
+|N/A| I'll write a description later | N/A | N/A |
 
 
 My interests include server side programming, machine learning, low level programming, linear algebra + other mathematical concepts, mathy programming, ethical advertizing, and economics.
