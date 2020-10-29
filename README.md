@@ -44,6 +44,7 @@
 
 
 |  **Events** |  **Description** | **Position** | **Link** |
+|-|-|-|-|
 |Space Apps Challenge| I'll write a description later | N/A | N/A
 |Congressional App Challenge| I'll write a description later | N/A | N/A
 |Harmony Hacks| I'll write a description later | N/A | N/A
