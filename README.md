@@ -35,7 +35,7 @@
 |  **Project** |  **Description** | **Technologies** |
 |-|-|-|
 |Textify| Textify is a text manipulation platform that allows anyone to create their own custom acronyms on a shared server which get parsed as the actual phrase once the message is sent. Plus a multitude of helpful features. | [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00ADD8&logo=go&logoColor=white)]() [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=white)]() [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=css3&logoColor=white)]() [![JS](https://img.shields.io/static/v1?label=&message=(some)%20JavaScript&color=F7DF1E&logo=javascript&logoColor=white)]()
-|Astra| I'll write a description later |[![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00ADD8&logo=go&logoColor=white)]()
+|Astra| A mobile app that uses satellite data in conjunction with the users coordinate data to return information about a satellite that orbits above them |[![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00ADD8&logo=go&logoColor=white)]()
 |Neural Network| I'll write a description later |Theory, Math, [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=white)]()
 |SiteDoctor| NLP based API & Web App for website optimization | [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00ADD8&logo=go&logoColor=white)]() [![Flask](https://img.shields.io/static/v1?label=&message=(some)%20Flask&color=black&logo=flask&logoColor=white)]() [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=white)]() [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=white)]() [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=css3&logoColor=white)]() [![JS](https://img.shields.io/static/v1?label=&message=(some)%20JavaScript&color=F7DF1E&logo=javascript&logoColor=white)]()
 |BlockBumb| Bump the Blue Block and you get rewarded by increasing in size. My first 3D rendered project. | [![C](https://img.shields.io/static/v1?label=&message=C&color=A8B9CC&logo=C&logoColor=white)]() [![Raylib](https://img.shields.io/static/v1?label=&message=Raylib&color=gray&logo=raylib&logoColor=na)]() 
@@ -45,7 +45,7 @@
 
 |  **Events** |  **Description** | **Position** | **Link** |
 |-|-|-|-|
-|Space Apps Challenge| I'll write a description later | N/A | N/A
+|Space Apps Challenge| Competed in the NASA Space Apps Challenge and became a global nominee by building Astra. A mobile app that uses satellite data in conjunction with the users coordinate data to return information about a satellite that orbits above them. | N/A | N/A
 |Congressional App Challenge| I'll write a description later | N/A | N/A
 |Harmony Hacks| I'll write a description later | N/A | N/A
 |Sigmoid Hacks| Sigmoid Hacks, a student(Hack Club) led, 3-day, International virtual event for high school and college students who come to acquire skills in the field of machine learning through a series of workshops and seminars. | N/A| N/A
