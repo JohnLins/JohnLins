@@ -48,9 +48,9 @@
 |Space Apps Challenge| I'll write a description later | N/A | N/A
 |Congressional App Challenge| I'll write a description later | N/A | N/A
 |Harmony Hacks| I'll write a description later | N/A | N/A
-|Sigmoid Hacks| I'll write a description later | N/A| N/A
+|Sigmoid Hacks| Sigmoid Hacks, a student(Hack Club) led, 3-day, International virtual event for high school and college students who come to acquire skills in the field of machine learning through a series of workshops and seminars. | N/A| N/A
 |NNSG| I'll write a description late | N/A| N/A |
-|N/A| I'll write a description later | N/A | N/A |
+|Hack Club| I'll write a description later | N/A | N/A |
 
 
 My interests include server side programming, machine learning + NLP, low level programming, linear algebra + other mathematical concepts, mathy programming, ethical advertizing, and economics.
