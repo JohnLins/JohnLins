@@ -50,7 +50,7 @@
 |Harmony Hacks| I'll write a description later | `Winner` | N/A
 |Sigmoid Hacks| Sigmoid Hacks, a student(Hack Club) led, 3-day, International virtual event for high school and college students who come to acquire skills in the field of machine learning through a series of workshops and seminars. | `Lead Organizer` | N/A
 |NNSG| I'll write a description late | `Founder` | N/A |
-|Hack Club| I'll write a description later | `Memeber` -> `VC` -> `Co President` | N/A |
+|Hack Club| I'll write a description later | `Memeber` > `VC` > `Co President` | N/A |
 
 
 My interests include server side programming, machine learning + NLP, low level programming, linear algebra + other mathematical concepts, mathy programming, ethical advertizing, and economics.
