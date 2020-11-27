@@ -1,5 +1,5 @@
 # John Lins
-<img src="https://img.shields.io/github/followers/johnlins?style=social"/> 
+<img src="https://img.shields.io/github/followers/johnlins?style=social"/> <img src="https://img.shields.io/static/v1?label=&message=Repl&color=lightgray&logo=repl.it&logoColor=white" href="https://repl.it/@JohnLins"/>
 <!--<a href="https://scrapbook.hackclub.com/JohnLins"><img src="hackclubflag.png" height="40px"/></a>-->
 
 <!--
