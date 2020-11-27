@@ -45,10 +45,10 @@
 
 |  **Events** |  **Description** | **Position** | **Link** |
 |-|-|-|-|
-|Space Apps Challenge| Competed in the NASA Space Apps Challenge and became a global nominee by building Astra. A mobile app that uses satellite data in conjunction with the users coordinate data to return information about a satellite that orbits above them. | N/A | N/A
+|Space Apps Challenge| Competed in the NASA Space Apps Challenge and became a global nominee by building Astra. A mobile app that uses satellite data in conjunction with the users coordinate data to return information about a satellite that orbits above them. | Global Nominee | N/A
 |Congressional App Challenge| I'll write a description later | N/A | N/A
-|Harmony Hacks| I'll write a description later | N/A | N/A
-|Sigmoid Hacks| Sigmoid Hacks, a student(Hack Club) led, 3-day, International virtual event for high school and college students who come to acquire skills in the field of machine learning through a series of workshops and seminars. | N/A| N/A
+|Harmony Hacks| I'll write a description later | Winner | N/A
+|Sigmoid Hacks| Sigmoid Hacks, a student(Hack Club) led, 3-day, International virtual event for high school and college students who come to acquire skills in the field of machine learning through a series of workshops and seminars. | Lead Organizer | N/A
 |NNSG| I'll write a description late | N/A| N/A |
 |Hack Club| I'll write a description later | N/A | N/A |
 
