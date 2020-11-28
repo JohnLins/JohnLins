@@ -1,5 +1,5 @@
 # John Lins
-<img src="https://img.shields.io/github/followers/johnlins?style=social"/> <a href="https://repl.it/@JohnLins"><img src="https://img.shields.io/static/v1?label=&message=Repl&color=lightgray&logo=repl.it&logoColor=white" href="https://repl.it/@JohnLins"/></a><a href="https://devpost.com/JohnLins"><img src="https://img.shields.io/static/v1?label=&message=Devpost&color=blue&logo=devpost&logoColor=blue"/></a>
+<img src="https://img.shields.io/github/followers/johnlins?style=social"/> <a href="https://repl.it/@JohnLins"><img src="https://img.shields.io/static/v1?label=&message=Repl&color=lightgray&logo=repl.it&logoColor=white" href="https://repl.it/@JohnLins"/></a> <a href="https://devpost.com/JohnLins"><img src="https://img.shields.io/static/v1?label=&message=Devpost&color=blue&logo=devpost&logoColor=blue"/></a>
 
 
 <!--<a href="https://scrapbook.hackclub.com/JohnLins"><img src="hackclubflag.png" height="40px"/></a>-->
