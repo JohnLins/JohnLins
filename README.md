@@ -56,7 +56,7 @@
 |Hack Club| I'll write a description later | `Memeber` > `VC` > `Co President` | N/A |
 
 
-My interests include server side programming, machine learning + NLP, low level programming, linear algebra + other mathematical concepts, mathy programming, ethical advertizing, and economics.
+My interests include server side programming, machine learning + NLP, low level programming, linear algebra & mathy programming, ethical advertizing, and economics.
 
 <!--
 [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=A81D33&logo=debian&logoColor=white)]() [![BSD](https://img.shields.io/static/v1?label=&message=BSD&color=AB2B28&logo=freebsd&logoColor=white)]() [![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=0078D6&logo=windows&logoColor=white)]() [![JetBrains](https://img.shields.io/static/v1?label=&message=JetBrains&color=000000&logo=jetbrains&logoColor=white)]() [![VSCode](https://img.shields.io/static/v1?label=&message=VSCode&color=52C0F2&logo=visualstudio&logoColor=white)]()
