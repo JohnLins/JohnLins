@@ -51,7 +51,7 @@
 |-|-|-|-|
 |Space Apps Challenge| Competed in the NASA Space Apps Challenge and became a global nominee by building Astra. A mobile app that uses satellite data in conjunction with the users coordinate data to return information about a satellite that orbits above them. | **`Global Nominee`** `(26,000 Participants) (Only 40 Global Nominees)` | https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/astra/project |  
 |Congressional App Challenge| I'll write a description later | `N/A` | N/A |
-|Harmony Hacks| I'll write a description later | `One of 6 `**`Winners`**` (348 Participants)` | N/A |
+|Harmony Hacks| I'll write a description later | `One of 3 `**`Honorable Mentions`**` (348 Participants)` | N/A |
 |Sigmoid Hacks| Sigmoid Hacks, a student(Hack Club) led, 3-day, International virtual event for high school and college students who come to acquire skills in the field of machine learning through a series of workshops and seminars. | `Lead Organizer` | https://sigmoidhacks.ml, https://sigmoidhacks.devpost.com
 |NNSG| Machine Learning Community & Study Group 700+ Members | `Founder` | http://nnsg.ml/ |
 |Hack Club| I'll write a description later | `Memeber` > `VC` > **`Co President`** |
