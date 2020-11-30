@@ -52,9 +52,9 @@
 |Congressional App Challenge| I'll write a description later | `N/A` | N/A |
 |Harmony Hacks| I'll write a description later | `One of 6 `**`Winners`**` (348 Participants)` | N/A |
 |Sigmoid Hacks| Sigmoid Hacks, a student(Hack Club) led, 3-day, International virtual event for high school and college students who come to acquire skills in the field of machine learning through a series of workshops and seminars. | `Lead Organizer` | https://sigmoidhacks.ml, https://sigmoidhacks.devpost.com
-|NNSG| I'll write a description late | `Founder` | http://nnsg.ml/ |
+|NNSG| Machine Learning Community & Study Group 700+ Members | `Founder` | http://nnsg.ml/ |
 |Hack Club| I'll write a description later | `Memeber` > `VC` > **`Co President`** |
-| Hack Table | N/A | **`1st Place Winner`**`, Most Advanced Project, & Most Market Ready (342 Participants)` | https://devpost.com/software/fallenai |
+| Hack Table | HackTable is a global online hackathon for all students across the globe. Students of all levels of computer science experience ranging from novices to experienced coders can find categories that can challenge them to think critically.  | **`1st Place Winner`**`, Most Advanced Project, & Most Market Ready (342 Participants)` | https://devpost.com/software/fallenai |
 
 
 My interests include server side programming, machine learning + NLP, low level programming, linear algebra & mathy programming, ethical advertizing, and economics.
