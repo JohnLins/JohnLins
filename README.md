@@ -5,7 +5,6 @@
 
 Hello! My name is John and my interests include server-side programming, machine learning + NLP, low-level programming, mathy programming, ethical advertizing, and economics.
 
-https://johnlins.com
 <!--
 <a href="https://angel.co/u/johnlins"><img src="https://angel.co/images/static_pages/logo/AngelList_Black_Victory_Hand.png" height="20px"/></a>
 -->
