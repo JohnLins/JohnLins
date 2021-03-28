@@ -44,7 +44,7 @@ Hello! My name is John and my interests include server-side programming, machine
 <div align="center">
 	<br>
 	
-		<img src=".svg" width="800" height="400">
+		<img src="tag.svg" width="800" height="400">
 	
 	<br>
 </div>
