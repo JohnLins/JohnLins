@@ -25,7 +25,7 @@ Hello! My name is John and my interests include server-side programming, machine
 | FallenAI | A pose detection AI built to monitor the old and the weak and send status notifications to their guardians in the case of an emergency. | [![Tensorflow](https://img.shields.io/static/v1?label=&message=Tensorflow&color=orange&logo=tensorflow&logoColor=white)]() [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00ADD8&logo=go&logoColor=white)]()
 -->
 
-
+<!--
 |  **Events** |  **Description** | **Position/Place** | **Link** | 
 |-|-|-|-|
 |Space Apps Challenge| Competed in the NASA Space Apps Challenge and became a global nominee by building Astra. A mobile app that uses satellite data in conjunction with the users coordinate data to return information about a satellite that orbits above them. | **`Global Nominee`** `(26,000 Participants) (Only 40 Global Nominees)` | https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/astra/project |  
@@ -38,6 +38,16 @@ Hello! My name is John and my interests include server-side programming, machine
 
 
 
+-->
+
+
+<div align="center">
+	<br>
+	
+		<img src=".svg" width="800" height="400">
+	
+	<br>
+</div>
 
 
 
