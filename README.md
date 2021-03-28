@@ -26,6 +26,7 @@ Hello! My name is John and my interests include server-side programming, machine
 -->
 
 
+<!--
 |  **Events** |  **Description** | **Position/Place** | **Link** | 
 |-|-|-|-|
 |Space Apps Challenge<img src="golang.svg"/> | Competed in the NASA Space Apps Challenge and became a global nominee by building Astra. A mobile app that uses satellite data in conjunction with the users coordinate data to return information about a satellite that orbits above them. | **`Global Nominee`** `(26,000 Participants) (Only 40 Global Nominees)` | https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/astra/project |  
@@ -37,7 +38,7 @@ Hello! My name is John and my interests include server-side programming, machine
 | Hack Table | HackTable is a global online hackathon for all students across the globe. Students of all levels of computer science experience ranging from novices to experienced coders can find categories that can challenge them to think critically.  | **`1st Place Winner`**`, Most Advanced Project, & Most Market Ready (342 Participants)` | https://devpost.com/software/fallenai |
 
 
-
+-->
 
 
 
