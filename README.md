@@ -41,7 +41,7 @@ Hello! My name is John and my interests include server-side programming, machine
 -->
 
 
-<img src="golang.svg" width="50"/>
+<img src="golang.svg" width="50" height="50"/>
 	
 	
 
