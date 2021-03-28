@@ -41,13 +41,10 @@ Hello! My name is John and my interests include server-side programming, machine
 -->
 
 
-<div align="center">
+<img src="tag.svg" width="800" height="400"/>
 	
 	
-		<img src="tag.svg" width="800" height="400"/>
-	
-	
-</div>
+
 
 
 
