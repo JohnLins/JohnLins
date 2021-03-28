@@ -25,10 +25,10 @@ Hello! My name is John and my interests include server-side programming, machine
 | FallenAI | A pose detection AI built to monitor the old and the weak and send status notifications to their guardians in the case of an emergency. | [![Tensorflow](https://img.shields.io/static/v1?label=&message=Tensorflow&color=orange&logo=tensorflow&logoColor=white)]() [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00ADD8&logo=go&logoColor=white)]()
 -->
 
-<!--
+
 |  **Events** |  **Description** | **Position/Place** | **Link** | 
 |-|-|-|-|
-|Space Apps Challenge| Competed in the NASA Space Apps Challenge and became a global nominee by building Astra. A mobile app that uses satellite data in conjunction with the users coordinate data to return information about a satellite that orbits above them. | **`Global Nominee`** `(26,000 Participants) (Only 40 Global Nominees)` | https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/astra/project |  
+|Space Apps Challenge<img src="golang.svg"/> | Competed in the NASA Space Apps Challenge and became a global nominee by building Astra. A mobile app that uses satellite data in conjunction with the users coordinate data to return information about a satellite that orbits above them. | **`Global Nominee`** `(26,000 Participants) (Only 40 Global Nominees)` | https://2020.spaceappschallenge.org/challenges/connect/orbital-sky/teams/astra/project |  
 |Congressional App Challenge| I'll write a description later | `N/A` | N/A |
 |Harmony Hacks| I'll write a description later | `One of 3 `**`Honorable Mentions`**` (348 Participants)` | N/A |
 |Sigmoid Hacks| Sigmoid Hacks, a student(Hack Club) led, 3-day, International virtual event for high school and college students who come to acquire skills in the field of machine learning through a series of workshops and seminars. | `Lead Organizer` | https://sigmoidhacks.ml, https://sigmoidhacks.devpost.com
@@ -38,10 +38,10 @@ Hello! My name is John and my interests include server-side programming, machine
 
 
 
--->
 
 
-<img src="golang.svg"/>
+
+
 	
 	
 
