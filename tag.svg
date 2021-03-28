@@ -58,7 +58,7 @@
 					background-color: lightgray; 
        
 				box-shadow:0px 0px 35px lightblue;
-				border: 8px lightblue;
+				border: 8px lightblue solid;
 				
 
 					
@@ -77,7 +77,7 @@
 
 				p {
 
-					font-size: 100px;
+					font-size: 300px;
 
 					
 
