@@ -60,7 +60,8 @@
 					height: 400px;
 
 					background-color: gray; 
-        box-shadow:0px 0px 15px gray;
+        box-shadow:0px 0px 15px blue;
+				
 
 					
 
@@ -94,8 +95,7 @@
 
 						0 12px 5px rgba(0, 0, 0, 0.1);
 
-					animation: rotate ease-in-out 1s infinite alternate;
-
+					
 				}
 
 				p {
@@ -104,17 +104,14 @@
 
 					text-shadow: 0 1px 0 #efefef;
 
-					animation: 5s ease 0s normal forwards 1 fadeIn;
-
-				}
+					}
 
 			</style>
 
 			<div class="container">
 
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-
-				<p>Click to see the source</p>
+				
+				<p>Golang</p>
 
 			</div>
 
