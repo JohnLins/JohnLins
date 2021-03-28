@@ -57,7 +57,8 @@
 
 					background-color: lightgray; 
        
-				box-shadow:0px 0px 25px lightblue; border: 3px lightblue;
+				box-shadow:0px 0px 35px lightblue;
+				border: 8px lightblue;
 				
 
 					
