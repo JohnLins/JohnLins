@@ -1,7 +1,7 @@
 # John Lins <img src="https://github.com/hackclub/assets/blob/main/flag-orpheus-left.png" height="40px"/>
 <img src="https://img.shields.io/github/followers/johnlins?style=social"/> <img src="https://komarev.com/ghpvc/?username=JohnLins&color=4ae88f&label=Profile+Views"/> <a href="https://repl.it/@JohnLins"><img src="https://img.shields.io/static/v1?label=&message=Repl&color=lightgray&logo=repl.it&logoColor=white" href="https://repl.it/@JohnLins"/></a> <a href="https://devpost.com/JohnLins"><img src="https://img.shields.io/static/v1?label=&message=Devpost&color=blue&logo=devpost&logoColor=white"/></a> <a href="https://scrapbook.hackclub.com/JohnLins/"><img src="https://img.shields.io/static/v1?label=&message=Scrapbook&color=purple&logo=hack%20club&logoColor=white"/></a>
 
-
+http://polywork.com/JohnLins
 
 Hello! My name is John and my interests include server-side programming, machine learning + NLP, low-level programming, mathy programming, ethical advertizing, and economics.
 
