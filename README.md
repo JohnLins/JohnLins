@@ -3,9 +3,9 @@
 <!--<a href="https://scrapbook.hackclub.com/JohnLins/"><img src="https://img.shields.io/static/v1?label=&message=Scrapbook&color=purple&logo=hack%20club&logoColor=white"/></a>-->
 
 <!-- http://polywork.com/JohnLins -->
-<a href="https://www.youtube.com/channel/UCibIMxQWtbklyoN0-P9e0Fw">YouTube</a>
-<a href="https://devpost.com/JohnLins">Devpost</a>
-<a href=""https://repl.it/@JohnLins">Replit</a>
+<a href="https://www.youtube.com/channel/UCibIMxQWtbklyoN0-P9e0Fw">YouTube</a>,
+<a href="https://devpost.com/JohnLins">Devpost</a>,
+<a href="https://repl.it/@JohnLins">Replit</a>,
 <a href="https://sigmoidhacks.org">SigmoidHacks</a>
 
 Hello! My name is John and my interests include server-side programming, machine learning + NLP, low-level programming, mathy programming, ethical advertizing, and economics.
