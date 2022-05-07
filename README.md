@@ -1,9 +1,5 @@
-# John Lins 	<a href="https://scrapbook.hackclub.com/JohnLins/">
-		<img src="https://github.com/hackclub/assets/blob/main/flag-orpheus-left.png" height="40px"/>
-		</a>
+# John Lins <a href="https://scrapbook.hackclub.com/JohnLins/"><img src="https://github.com/hackclub/assets/blob/main/flag-orpheus-left.png" height="40px"/></a>
 
-
-<img src="https://komarev.com/ghpvc/?username=JohnLins&color=4ae88f&label=Profile+Views" style="display: none;"/> 
 
 <a href="https://repl.it/@JohnLins"><img src="https://img.shields.io/static/v1?label=&message=Repl&color=lightgray&logo=repl.it&logoColor=white" href="https://repl.it/@JohnLins"/></a> 
 
