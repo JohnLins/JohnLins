@@ -5,7 +5,7 @@
 
 <a href="https://devpost.com/JohnLins"><img src="https://img.shields.io/static/v1?label=&message=Devpost&color=blue&logo=devpost&logoColor=white"/></a> 
 	
-	<!--<a href="https://scrapbook.hackclub.com/JohnLins/"><img src="https://img.shields.io/static/v1?label=&message=Scrapbook&color=purple&logo=hack%20club&logoColor=white"/></a>-->
+<!--<a href="https://scrapbook.hackclub.com/JohnLins/"><img src="https://img.shields.io/static/v1?label=&message=Scrapbook&color=purple&logo=hack%20club&logoColor=white"/></a>-->
 
 <!-- http://polywork.com/JohnLins -->
 Youtube: https://www.youtube.com/channel/UCibIMxQWtbklyoN0-P9e0Fw
