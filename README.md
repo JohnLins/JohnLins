@@ -6,7 +6,8 @@
 <a href="https://www.youtube.com/channel/UCibIMxQWtbklyoN0-P9e0Fw">YouTube</a>,
 <a href="https://devpost.com/JohnLins">Devpost</a>,
 <a href="https://repl.it/@JohnLins">Replit</a>,
-<a href="https://sigmoidhacks.org">SigmoidHacks</a>
+<a href="https://sigmoidhacks.org">SigmoidHacks</a>,
+<a href="http://loyae.com">Loyae</a>
 
 Hello! My name is John and my interests include server-side programming, machine learning + NLP, low-level programming, mathy programming, ethical advertizing, and economics.
 
